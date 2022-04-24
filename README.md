@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mithun-Menon
 - 👀 I’m interested in Cyber security and App dev
-- 🌱 I’m currently learning Engineering in CS
+- 🌱 I’m currently pursuing B.Eng in CS
 - 📫 How to reach me: mithunmen10@gmail.com
 
 <!---
